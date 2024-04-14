@@ -105,7 +105,7 @@
 
 == Skills
 #line(length: 100%)
-  *Infrastructure, Deployment & DevOps:* Docker, Kubernetes, AWS, Digital Ocean, Oracle Cloud, Terraform, CircleCI, GitHub Actions
+  *Infrastructure, Deployment & DevOps:* Docker, Kubernetes, AWS, Digital Ocean, Oracle Cloud, Terraform, CircleCI, GitHub Actions, Bash
   \
   *Frontend, CSS and JavaScript:* NextJS/React, Vue.js, TypeScript, Vite, Tailwind CSS, Bootstrap
   \
