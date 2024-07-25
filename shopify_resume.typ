@@ -112,9 +112,10 @@
   \
   *Backend Languages & Frameworks:* PHP Laravel, Python Django, Ruby on Rails, Golang, SQL
   \
+  *Web and Low/No-Code Platforms:* Retool, Shopify
+  \
   *Automation, Operations and Marketing:* Airtable, Zapier, LinkedIn Sales Navigator, Apollo, Coda, Notion, Phantombuster, Clay
   \
-  *Other Skills:* Adobe XD, Fluent in Japanese, Creative and Academic Writing, Pitching and Public Speaking, Cooking, Bass, Competitive Chess
 
 == Events and Projects
 #line(length: 100%)
