@@ -6,7 +6,7 @@
 // header
 #align(center)[
   = Kirby Aguilar
-  (+63) 916 567 3903 | samuelkirbyaguilar\@gmail.com | #link("https://www.linkedin.com/in/samuel-kirby-aguilar-0ab0551b4/")[LinkedIn]
+  (+63) 916 567 3903 | samuelkirbyaguilar\@gmail.com | #link("https://www.linkedin.com/in/samuel-kirby-aguilar-0ab0551b4/")[LinkedIn] | #link("https://github.com/kirbyaguilar")[GitHub]
 ]
 
 == Experience
