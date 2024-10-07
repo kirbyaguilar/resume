@@ -6,7 +6,7 @@
 // header
 #align(center)[
   = Kirby Aguilar
-  (+63) 916 567 3903 | samuelkirbyaguilar\@gmail.com
+  (+63) 916 567 3903 | samuelkirbyaguilar\@gmail.com | #link("https://www.linkedin.com/in/samuel-kirby-aguilar-0ab0551b4/")[LinkedIn]
 ]
 
 == Experience
@@ -21,7 +21,7 @@
   #colbreak()
   #align(right)[
     Makati City, Philippines \
-    December 2023 - Present
+    December 2023 - October 2024
   ]
 ]
 - Developed an HRIS and Payroll web app that currently supports millions of pesos monthly alongside company\‘s founders
@@ -106,15 +106,15 @@
 
 == Skills
 #line(length: 100%)
-  *Infrastructure, Deployment & DevOps:* Docker, Kubernetes, AWS, Terraform, CircleCI, GitHub Actions, Bash, Linux
-  \
   *Frontend, CSS and JavaScript:* NextJS/React, Vue.js, TypeScript, Vite, Tailwind CSS, Bootstrap
   \
-  *Backend Languages & Frameworks:* PHP Laravel, Python Django, Ruby on Rails, Golang, SQL
+  *Backend Languages & Frameworks:* PHP Laravel, Ruby on Rails, Python Django, Golang, SQL
   \
-  *Automation, Operations and Marketing:* Airtable, Zapier, LinkedIn Sales Navigator, Apollo, Coda, Notion, Phantombuster, Clay
+  *Infrastructure, Deployment & DevOps:* AWS, CircleCI, Bash, Linux, Docker, Automated testing
   \
-  *Other Skills:* Adobe XD, Fluent in Japanese, Creative and Academic Writing, Pitching and Public Speaking, Cooking, Bass, Competitive Chess
+  *Automation, Operations, Marketing and Low-code:* Airtable, Zapier, LinkedIn Sales Navigator, Apollo, Coda, Notion, Phantombuster, Clay, Shopify, Retool
+  \
+  *Other Skills:* Adobe XD/Figma, Fluent in Japanese, Creative Writing, Pitching and Public Speaking, Cooking, Bass, Competitive Chess
 
 == Events and Projects
 #line(length: 100%)
