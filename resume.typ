@@ -110,7 +110,7 @@
   \
   *Backend Languages & Frameworks:* PHP Laravel, Ruby on Rails, Python Django, Golang, SQL
   \
-  *Infrastructure, Deployment & DevOps:* AWS, CircleCI, Bash, Linux, Docker, Automated testing
+  *Infrastructure, Deployment & DevOps:* AWS, CircleCI, Bash, Linux, Docker, Dokku, Automated testing
   \
   *Automation, Operations, Marketing and Low-code:* Airtable, Zapier, LinkedIn Sales Navigator, Apollo, Coda, Notion, Phantombuster, Clay, Shopify, Retool
   \
