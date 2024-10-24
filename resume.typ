@@ -113,8 +113,6 @@
   *Infrastructure, Deployment & DevOps:* AWS, CircleCI, Bash, Linux, Docker, Dokku, Automated testing
   \
   *Automation, Operations, Marketing and Low-code:* Airtable, Zapier, LinkedIn Sales Navigator, Apollo, Coda, Notion, Phantombuster, Clay, Shopify, Retool
-  \
-  *Other Skills:* Adobe XD/Figma, Fluent in Japanese, Creative Writing, Pitching and Public Speaking, Cooking, Bass, Competitive Chess
 
 == Events and Projects
 #line(length: 100%)
