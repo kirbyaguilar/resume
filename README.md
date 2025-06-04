@@ -13,8 +13,8 @@ typst compile resume.typ
 You may have to add fonts via typst compilation:
 
 ```bash
-# if needed, replace ./EB_Garamond/static with /path/to/font/folder
-typst compile --font-path ./EB_Garamond/static resume.typ
+# if needed, replace ./fonts with /path/to/font/folder
+typst watch --font-path ./fonts resume.typ
 
 # lists all of the discovered fonts in the system and the given directory.
 typst fonts --font-path path/to/fonts
