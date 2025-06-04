@@ -2,6 +2,7 @@
 
 // this line might return an unknown font family warning; ignore if fonts have been properly compiled (see README)
 #set text(font: "EB Garamond")
+#set text(size: 10pt)
 
 #set par(justify: true, leading: 0.55em, linebreaks: "optimized")
 #set list(indent: 8pt)
@@ -14,6 +15,20 @@
 
 == Experience
 #line(length: 100%)
+
+// first mate
+#columns(2)[
+  #align(left)[
+    *First Mate Technologies*  \
+    _Software Engineer_
+  ]
+  #colbreak()
+  #align(right)[
+    Makati City, Philippines \
+    November 2024 - Present
+  ]
+]
+- Develops and maintains an American B2B startup product's system that handles 200k-500k requests daily from \~50k daily end users
 
 // deya
 #columns(2)[
@@ -30,21 +45,6 @@
 - Developed an HRIS and Payroll web app that currently supports millions of pesos monthly alongside company\‘s founders
 - Set up company\‘s deployment infrastructure and CI/CD pipeline from scratch
 
-// baton
-#columns(2)[
-  #align(left)[
-    *Baton*  \
-    _Implementation Associate_
-  ]
-  #colbreak()
-  #align(right)[
-    USA \
-    February 2023 - October 2023
-  ]
-]
-- Built automated Linkedin + email lead generation system and workflow
-- Optimized client company workflows through automation, software solutions, and product meetings
-
 // TM
 #columns(2)[
   #align(left)[
@@ -60,6 +60,20 @@
 - Worked with project infrastructure and business development initiatives
 - Designed POCs for internal GPT solutions
 
+// baton
+#columns(2)[
+  #align(left)[
+    *Baton*  \
+    _Implementation Associate_
+  ]
+  #colbreak()
+  #align(right)[
+    USA \
+    February 2023 - October 2023
+  ]
+]
+- Built automated Linkedin + email lead generation system and workflow
+- Optimized client company workflows through automation, software solutions, and product meetings
 
 // Technomancer
 #columns(2)[
@@ -76,21 +90,6 @@
 - Spearheaded company\'s framework shift from CI3 to Laravel, including internal training, coding standards, and version control/code review standardization
 - Trained company interns and implemented 1-on-1 meetings and guidance programs from scratch
 - Developed, maintained and deployed web-based solutions for clients
-
-// Freelancer
-#columns(2)[
-  #align(left)[
-    *Freelancer Ltd*  \
-    _Software Engineering Intern_
-  ]
-  #colbreak()
-  #align(right)[
-    Taguig City, Philippines \
-    July 2021 - September 2021
-  ]
-]
-- Wrote and reviewed code for the frontend web app, API, and tests (unit, e2e, A/B)
-
 
 == Education
 #line(length: 100%)
@@ -111,9 +110,9 @@
 #line(length: 100%)
   *Frontend, CSS and JavaScript:* NextJS/React, Vue.js, TypeScript, Vite, Tailwind CSS, Bootstrap
   \
-  *Backend Languages & Frameworks:* PHP Laravel, Ruby on Rails, Python Django, Golang, SQL
+  *Backend Languages & Frameworks:* PHP Laravel, Ruby on Rails, Python FastAPI, Golang, Supabase, SQL
   \
-  *Infrastructure, Deployment & DevOps:* AWS, CircleCI, Bash, Linux, Docker, Dokku, Automated testing
+  *Infrastructure, Deployment & DevOps:* AWS, GitHub Actions, Bash, Linux, Docker, Dokku, Automated testing
   \
   *Automation, Operations, Marketing and Low-code:* Airtable, Zapier, LinkedIn Sales Navigator, Apollo, Coda, Notion, Phantombuster, Clay, Shopify, Retool
 
